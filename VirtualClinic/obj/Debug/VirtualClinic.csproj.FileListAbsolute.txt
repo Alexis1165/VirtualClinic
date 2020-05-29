@@ -1,0 +1,6 @@
+C:\Users\Alexis\source\repos\VirtualClinic\VirtualClinic\bin\Debug\VirtualClinic.exe.config
+C:\Users\Alexis\source\repos\VirtualClinic\VirtualClinic\bin\Debug\VirtualClinic.exe
+C:\Users\Alexis\source\repos\VirtualClinic\VirtualClinic\bin\Debug\VirtualClinic.pdb
+C:\Users\Alexis\source\repos\VirtualClinic\VirtualClinic\obj\Debug\VirtualClinic.csproj.CoreCompileInputs.cache
+C:\Users\Alexis\source\repos\VirtualClinic\VirtualClinic\obj\Debug\VirtualClinic.exe
+C:\Users\Alexis\source\repos\VirtualClinic\VirtualClinic\obj\Debug\VirtualClinic.pdb
